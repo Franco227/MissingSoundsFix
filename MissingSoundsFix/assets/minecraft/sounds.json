@@ -1,0 +1,39 @@
+{
+    "block.spawner.fall": {
+        "sounds": [
+            "block/spawner/fall1",
+            "block/spawner/fall2",
+            "block/spawner/fall3",
+            "block/spawner/fall4",
+            "block/spawner/fall5"
+        ]
+    },
+    "entity.cod.ambient": {
+        "sounds": [
+            "mob/cod/ambient"
+        ]
+    },
+    "entity.goat.screaming.horn_break": {
+        "sounds": [
+            "mob/goat/horn_break1",
+            "mob/goat/horn_break2",
+            "mob/goat/horn_break3",
+            "mob/goat/horn_break4"
+        ]
+    },
+    "entity.salmon.ambient": {
+        "sounds": [
+            "mob/salmon/ambient"
+        ]
+    },
+    "item.goat_horn.play": {
+        "sounds": [
+            "item/goat_horn/play"
+        ]
+    },
+    "music.nether.warped_forest": {
+        "sounds": [
+            "music/nether/warped_forest"
+        ]
+    }
+  }
