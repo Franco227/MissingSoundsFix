@@ -1,4 +1,14 @@
 {
+    "block.fungus.fall": {
+        "sounds": [
+            "block/fungus/fall"
+        ]
+    },
+    "block.fungus.hit": {
+        "sounds": [
+            "block/fungus/hit"
+        ]
+    },
     "block.spawner.fall": {
         "sounds": [
             "block/spawner/fall1",
@@ -21,9 +31,24 @@
             "mob/goat/horn_break4"
         ]
     },
+    "entity.puffer_fish.ambient": {
+        "sounds": [
+            "mob/pufferfish/ambient"
+        ]
+    },
     "entity.salmon.ambient": {
         "sounds": [
             "mob/salmon/ambient"
+        ]
+    },
+    "entity.snow_golem.ambient": {
+        "sounds": [
+            "mob/snow_golem/ambient"
+        ]
+    },
+    "entity.tropical_fish.ambient": {
+        "sounds": [
+            "mob/tropical_fish/ambient"
         ]
     },
     "item.goat_horn.play": {
