@@ -2,11 +2,11 @@
 
 ### 1.1
 - Update pack icon
-- Fixes `block.fungus.fall`
-- Fixes `block.fungus.hit`
-- Fixes `entity.puffer_fish.ambient`
-- Fixes `entity.snow_golem.ambient`
-- Fixes `entity.tropical_fish.ambient`
+- Fixes `block.fungus.fall` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)
+- Fixes `block.fungus.hit` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)
+- Fixes `entity.puffer_fish.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)
+- Fixes `entity.snow_golem.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)
+- Fixes `entity.tropical_fish.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)
 
 ### 1.0
 - Initial release
